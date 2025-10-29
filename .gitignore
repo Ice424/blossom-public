@@ -1,5 +1,4 @@
 __pycache__
-src/sequences/*/*
 *.pyc
 .DS_Store
 node_modules
